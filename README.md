@@ -2,6 +2,9 @@
 👋 Hi, I’m Nithish Kumar<br><br>🎓 Computer Science & Engineering Student<br>💻 Full Stack Developer | AI Integration | Java | DSA<br><br>I’m a passionate Full Stack Developer focused on building scalable, user-friendly web applications and integrating AI capabilities into modern software solutions.<br><br>🚀 About Me<br><br>* 💻 Building applications using the MERN Stack<br>* 🤖 Exploring AI integration and AI-powered features in web applications<br>* ☕ Strong foundation in Java, OOP, DBMS, and Data Structures & Algorithms<br>* 🌐 Interested in developing end-to-end full-stack applications<br>* 🧩 Regularly practicing problem solving on LeetCode & GeeksforGeeks<br>* 🛠️ Building real-world projects to improve my development skills<br>* 📚 Continuously learning new technologies and software engineering practices<br>* 🎯 Aspiring to become a Software Development Engineer
 
 
+https://raw.githubusercontent.com/Nithishvarma10/Nithishvarma10/output/snake-purple.svg
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-chintham-17051b374) 
 
